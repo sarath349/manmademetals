@@ -9,6 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@shopify/shopify-api": "^12.3.0",
+    "@shopify/storefront-api-client": "^1.0.9",
     "next": "16.1.4",
     "react": "19.2.3",
     "react-dom": "19.2.3"
