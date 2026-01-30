@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# documentation with sensitive deployment info
+*TROUBLESHOOTING.md
+*SETUP.md
+*SOLUTION.md
+*DEPLOYMENT*.md
+*PUSH*.md
